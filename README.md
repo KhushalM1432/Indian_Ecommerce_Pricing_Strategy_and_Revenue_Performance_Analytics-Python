@@ -83,10 +83,10 @@ The analysis can support e-commerce stakeholders in:
 
 ## Project Deliverables
 
-- Python Jupyter Notebook containing the analysis.
-- Original 36-month Indian e-commerce dataset.
-- Cleaned CSV dataset for further analysis.
-- HTML analysis report.
+- `Indian E-Commerce Pricing & Revenue Analysis.ipynb` — Python analysis notebook
+- `Indian E-Commerce Sales Data.csv` — Original 36-month e-commerce dataset
+- `Indian E-Commerce Cleaned Dataset.csv` — Cleaned dataset for further analysis
+- `Indian E-Commerce Analysis Report.html` — Comprehensive analysis report
 
 ## Business Recommendations
 
